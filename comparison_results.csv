@@ -1,0 +1,4 @@
+model,min_samples_leaf,test_accuracy
+ID3 baseline,1,0.8757225433526011
+ID3 validation-selected,1,0.8757225433526011
+sklearn validation-selected,1,0.9739884393063584
