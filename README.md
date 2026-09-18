@@ -2,6 +2,12 @@
 
 Coursework implementing preprocessing with pandas and a categorical ID3 decision tree without a machine-learning library. A follow-up notebook compares the tree with scikit-learn and examines a minimum-leaf-size stopping rule.
 
+## Tech stack
+
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white) ![pandas](https://img.shields.io/badge/pandas-150458?style=flat&logo=pandas&logoColor=white) ![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=flat&logo=scikitlearn&logoColor=white) ![matplotlib](https://img.shields.io/badge/matplotlib-11557C?style=flat)
+
+Notebooks 01–02 use pandas and the standard library; scikit-learn is used for the comparison in notebook 03.
+
 ## Notebooks
 
 | Notebook | Focus |
